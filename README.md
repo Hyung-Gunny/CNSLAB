@@ -4,5 +4,7 @@
 </div>
 <div align=cneter>
   <h3>⏱️2022년도⏱️ </h3>
-      <a href="https://github.com/Hyung-Gunny/CNSLAB/blob/main/.pptx">
+      <a href="2022학년도 겨울방학 Chapter4 정수론의 기본 개념과 유한체_박형건.pptx">
+        <h3>2022년 겨울방학 - 정수론</h3>
+        
 
